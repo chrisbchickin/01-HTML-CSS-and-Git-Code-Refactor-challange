@@ -7,9 +7,7 @@ I learned different html tags, how to implement navigational links, and ad alt t
 
 ## credits
 Christopher Benjamin
-me
-
-## Usage
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
 
 ## license
